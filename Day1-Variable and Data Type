@@ -1,0 +1,18 @@
+1. Primitive Data Types
+These are the most basic data types and are predefined in Java. They store simple values directly.
+
+byte: 8-bit integer (-128 to 127)
+short: 16-bit integer (-32,768 to 32,767)
+int: 32-bit integer (-2^31 to 2^31-1)
+long: 64-bit integer (-2^63 to 2^63-1)
+float: 32-bit floating-point number (single precision)
+double: 64-bit floating-point number (double precision)
+char: 16-bit Unicode character (e.g., 'A', '3')
+boolean: Represents true or false
+2. Non-Primitive Data Types (Reference Types)
+These are more complex data structures that hold references to objects or arrays.
+
+String: Sequence of characters, e.g., "Hello". It's not a primitive type but behaves similarly.
+Arrays: Used to store multiple values of the same type.
+Classes/Objects: Defined using the class keyword, which allows the creation of custom data types.
+Interfaces: Defines methods that classes can implement.
