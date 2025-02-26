@@ -25,6 +25,8 @@ public class D2_L5_taking_input {
 */
 
     boolean b1 = sc.hasNextInt();
+        // this systan is used to check that is the user giving input as integer or not
+        // if the input is integer then output is True alse it will be false
     System.out.println(b1);
     }
 }
