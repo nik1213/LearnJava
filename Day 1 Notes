@@ -1,0 +1,20 @@
+Basic structure of java program
+1.Functions: These are the small chunks of code which perform some specific task.
+that can be addition, Subtraction, multiplication etc.
+Functions are also called Method in java.
+Function can be static or dynamic in nature.
+
+2. Classes: It is a blueprint in java for creating Object
+Basically class defines Structure and behaviour of Object.
+A class contain Variables.
+A class may or may not contain function
+
+------------------------------------------NAMING CONVENTION in JAVA-------------------------------------------------
+PascalConvention: Used for Class
+First letter is capital
+ex, MyNameIsNikhil
+AddTwoNumbers : Example <----------
+
+camelCaseConvention: Used for Function
+First letter is lower case
+addTwoNumbers: Example <-----------
